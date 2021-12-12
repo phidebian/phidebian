@@ -1,5 +1,0 @@
-=== AAA ===
-line
-
-=== BBB ===
-line again
