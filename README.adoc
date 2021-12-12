@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @phidebian
 
 === AAA ===
+Before inc
+
+include::yo.adoc[]
+
+After inc
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
